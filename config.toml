@@ -1,6 +1,6 @@
-baseURL = "https://mostlygeek.com/"
+baseURL = "https://portocarodos.eu"
 languageCode = "en-us"
-title = "mostlygeek"
+title = "portocarodos"
 theme = "hyde"
 MetaDataFormat = "yaml"
 enableRobotsTXT = true
